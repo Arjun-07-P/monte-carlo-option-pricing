@@ -114,5 +114,6 @@ Real markets exhibit changing volatility, extreme returns, liquidity constraints
 3. Run all cells in order.
 
 ## Author
+Arjun Patil
 
 Ahmed Hassan Shah
