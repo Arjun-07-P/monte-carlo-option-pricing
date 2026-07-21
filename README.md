@@ -115,5 +115,3 @@ Real markets exhibit changing volatility, extreme returns, liquidity constraints
 
 ## Author
 Arjun Patil
-
-Ahmed Hassan Shah
