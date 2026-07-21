@@ -21,8 +21,7 @@ The project also:
 Terminal stock prices are simulated using geometric Brownian motion:
 
 $$
-S_T = S_0 \exp\left[\left(r-\frac{1}{2}\sigma^2\right)T
-+ \sigma\sqrt{T}Z\right]
+S_T = S_0 \exp\left[\left(r-\frac{1}{2}\sigma^2\right)T + \sigma\sqrt{T}Z\right]
 $$
 
 The European call payoff is:
