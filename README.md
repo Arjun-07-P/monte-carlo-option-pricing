@@ -20,22 +20,22 @@ The project also:
 
 Terminal stock prices are simulated using geometric Brownian motion:
 
-\[
+$$
 S_T = S_0 \exp\left[\left(r-\frac{1}{2}\sigma^2\right)T
 + \sigma\sqrt{T}Z\right]
-\]
+$$
 
 The European call payoff is:
 
-\[
+$$
 \max(S_T-K,0)
-\]
+$$
 
 The Monte Carlo option value is calculated by discounting the average simulated payoff:
 
-\[
+$$
 C_0 = e^{-rT}\mathbb{E}[\max(S_T-K,0)]
-\]
+$$
 
 ## Initial Parameters
 
